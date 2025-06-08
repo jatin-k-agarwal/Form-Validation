@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jatin-k-agarwal/Form-Validation/static/css/main.1de18897.css",
+    "main.js": "/jatin-k-agarwal/Form-Validation/static/js/main.a52c0158.js",
+    "static/js/453.9a7010f2.chunk.js": "/jatin-k-agarwal/Form-Validation/static/js/453.9a7010f2.chunk.js",
+    "index.html": "/jatin-k-agarwal/Form-Validation/index.html",
+    "main.1de18897.css.map": "/jatin-k-agarwal/Form-Validation/static/css/main.1de18897.css.map",
+    "main.a52c0158.js.map": "/jatin-k-agarwal/Form-Validation/static/js/main.a52c0158.js.map",
+    "453.9a7010f2.chunk.js.map": "/jatin-k-agarwal/Form-Validation/static/js/453.9a7010f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de18897.css",
+    "static/js/main.a52c0158.js"
+  ]
+}
