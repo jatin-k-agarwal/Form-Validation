@@ -2,7 +2,7 @@
   "name": "form-validation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jatin-k-agarwal/Form-Validation",
+  "homepage": "https://jatin-k-agarwal.github.io/Form-Validation",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
